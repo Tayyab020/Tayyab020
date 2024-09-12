@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🔭 I’m currently working on: Tailor Hub, portfolio website
+-🔭 I’m currently working on: Tailor Hub, portfolio website<br/>
 -🌱 I’m currently learning: MERN
 -👯 I’m looking to collaborate on: open-source, MERN stack apps
 -🤔 I’m looking for help with: Advanced React patterns, scaling MongoDB 
