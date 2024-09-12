@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on: Tailor Hub, portfolio website
-🌱 I’m currently learning: MERN
-👯 I’m looking to collaborate on: open-source, MERN stack apps
-🤔 I’m looking for help with: Advanced React patterns, scaling MongoDB 
-💬 Ask me about: MERN stack, React.js, Next.js ,React Native
-📫 How to reach me: tayyabhussain070@gmail.com
-😄 Pronouns: he/him
+-🔭 I’m currently working on: Tailor Hub, portfolio website
+-🌱 I’m currently learning: MERN
+-👯 I’m looking to collaborate on: open-source, MERN stack apps
+-🤔 I’m looking for help with: Advanced React patterns, scaling MongoDB 
+-💬 Ask me about: MERN stack, React.js, Next.js ,React Native
+-📫 How to reach me: tayyabhussain070@gmail.com
+-😄 Pronouns: he/him
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tayyab020_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/tayyab-hussain-11617a233) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tayyab020_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tayyabb020) 
